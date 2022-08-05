@@ -1,0 +1,23 @@
+{
+  "name": "hanghae99week5",
+  "version": "1.0.0",
+  "description": "testing testing...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalvinParkNov/Hanghae99-week5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalvinParkNov/Hanghae99-week5/issues"
+  },
+  "homepage": "https://github.com/CalvinParkNov/Hanghae99-week5#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
